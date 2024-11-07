@@ -1,7 +1,7 @@
 # Trump Bitcoin Report Card
 |  | Pledge | Grade | Notes |
 |--|--|--|--|
-| 1 | Fire SEC Chair Gary Gensler on day 1 |  |  |
+| 1 | Fire SEC Chair Gary Gensler on day 1 |  | There is debate as to whether the president has this power. |
 | 2 | Commute the sentence of Ross Ulbricht on day 1 |  |  |
 | 3 | Remove capital gains taxes on bitcoin transactions |  |  |
 | 4 | Create and hodl a strategic bitcoin stockpile |  |  |
@@ -14,11 +14,12 @@
 | 11 | Make the US the "crypto capital of the planet" |  |  |
 
 ### Comments
-Pledge 1 - There is debate as to whether the president actually has the legal authority to fire the SEC chair. Apparently, Senate approval is needed.
+Pledge 1 - 
 
 ### Sources
-Nashville speech - https://www.youtube.com/watch?v=EiEIfBatnH8
-CryptoPotato "top 8 promises" - https://x.com/Crypto_Potato/status/1854105511349584226
-CNBC - https://www.cnbc.com/2024/11/06/trump-claims-presidential-win-here-is-what-he-promised-the-crypto-industry-ahead-of-the-election.html
-BLOCKHEAD - https://www.blockhead.co/2024/11/07/heres-everything-trump-promised-to-the-crypto-industry/
-CoinTelegraph - https://cointelegraph.com/news/trump-promises-crypto-election-usa
+
+ 1. Nashville speech - https://www.youtube.com/watch?v=EiEIfBatnH8
+2. CryptoPotato "top 8 promises" - https://x.com/Crypto_Potato/status/1854105511349584226
+3. CNBC - https://www.cnbc.com/2024/11/06/trump-claims-presidential-win-here-is-what-he-promised-the-crypto-industry-ahead-of-the-election.html
+4. BLOCKHEAD - https://www.blockhead.co/2024/11/07/heres-everything-trump-promised-to-the-crypto-industry/
+5. CoinTelegraph - https://cointelegraph.com/news/trump-promises-crypto-election-usa
