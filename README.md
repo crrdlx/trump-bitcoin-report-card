@@ -1,7 +1,7 @@
 # Trump Bitcoin Report Card
 |  | Pledge | Grade | Notes |
 |--|--|--|--|
-| 1 | Fire SEC Chair Gary Gensler on day 1 |  | There is debate as to whether the president has this power. |
+| 1 | Fire SEC Chair Gary Gensler on day 1 |  |  |
 | 2 | Commute the sentence of Ross Ulbricht on day 1 |  |  |
 | 3 | Remove capital gains taxes on bitcoin transactions |  |  |
 | 4 | Create and hodl a strategic bitcoin stockpile |  |  |
@@ -14,7 +14,7 @@
 | 11 | Make the US the "crypto capital of the planet" |  |  |
 
 ### Comments
-Pledge 1 - 
+Pledge 1 - There is debate as to whether the president has this power. Apparently, Senate approval is required.
 
 ### Sources
 
