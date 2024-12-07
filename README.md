@@ -8,7 +8,10 @@ So, a progress report is called for to see how things have passed since his Nash
 
 - GitHub: https://github.com/crrdlx/trump-bitcoin-report-card
 - First post: https://stacker.news/items/757211
+<<<<<<< HEAD
 - Progress report 1: https://stacker.news/items/774165
+=======
+>>>>>>> origin/main
 
 :::success
 Progress Report 1
@@ -87,6 +90,7 @@ Progress Report Grade: C-
 5. CoinTelegraph - https://cointelegraph.com/news/trump-promises-crypto-election-usa
 6. China vid - Bitcoin ATH and US Strategic Bitcoin Stockpile - https://njump.me/nevent1qqsgmmuqumhfktugtnx9kcsh3ap6v7ca4z8rgx79palz2qk0wzz5cksppemhxue69uhkummn9ekx7mp0qgszwaxc8j8e0zw9sdq59y43rykyx3wm0lcd2502xth699v0gxf0degrqsqqqqqpglusv6
 7. Capitals gains tax - https://bravenewcoin.com/insights/trump-proposes-crypto-tax-cuts-targets-u-s-made-tokens-for-tax-exemption
+<<<<<<< HEAD
 Progress report 1 ------------------------------------------------------------------------------------
 8. Meeting with Brian Armstrong - https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-11-18-2024/card/exclusive-trump-to-meet-privately-with-coinbase-ceo-brian-armstrong-DDkgF0xW1BW242rVeuqx
 9. Michael Saylor podcast - https://fountain.fm/episode/DHEzGE0f99QQqyM36nVr
@@ -96,3 +100,7 @@ Progress report 2 --------------------------------------------------------------
 12. SEC chair - https://www.cnbc.com/2024/12/04/trump-plans-to-nominate-paul-atkins-as-sec-chair.html
 13. Crypto czar - https://www.zerohedge.com/crypto/trump-names-david-sacks-white-house-ai-crypto-czar
 14. Investigate CP2 - https://www.cryptopolitan.com/crypto-czar-investigate-choke-point/
+=======
+8. Meeting with Brian Armstrong - https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-11-18-2024/card/exclusive-trump-to-meet-privately-with-coinbase-ceo-brian-armstrong-DDkgF0xW1BW242rVeuqx
+9. Michael Saylor podcast - https://fountain.fm/episode/DHEzGE0f99QQqyM36nVr
+>>>>>>> origin/main
